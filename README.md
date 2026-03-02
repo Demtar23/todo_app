@@ -34,6 +34,7 @@ A responsive Todo application built with React and TypeScript. Supports single a
 
 ### Clone the repository:
 
+```bash
 git clone https://github.com/Demtar23/todo_app.git
 cd todo_app
 
