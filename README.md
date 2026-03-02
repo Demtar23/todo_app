@@ -1,9 +1,73 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+A responsive Todo application built with React and TypeScript. Supports single and batch updates, server requests, and full state management.
 
-### Available Scripts
+## Live Demo
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[View Demo](https://Demtar23.github.io/todo_app/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Technologies Used
+
+### Core
+- **React (v18.3.1)** — UI library
+- **TypeScript (v5.2.2)** — Static type safety
+- **Sass (SCSS)** — Styling preprocessor
+- **Bulma** — CSS framework
+
+### UI / UX
+- **Font Awesome** — Icons
+- **classnames** — Conditional class management
+
+### Development & Code Quality
+- **Vite (v5.3.1)** — Build tool & dev server
+- **ESLint** — Code linting
+- **Prettier** — Code formatting
+- **Stylelint** — CSS/SCSS linting
+
+### Testing
+- **Cypress** — End-to-end testing
+
+### Deployment
+- **GitHub Pages** — Hosting & deployment
+
+## Setup & Run Locally
+
+### Clone the repository:
+
+git clone https://github.com/Demtar23/todo_app.git
+cd todo_app
+
+### Install dependencies:
+
+npm install
+# or
+yarn install
+
+### Run the project locally:
+
+npm start
+# or
+yarn start
+
+### Build for production:
+
+npm run build
+# or
+yarn build
+
+### Preview production build:
+
+npm run preview
+# or
+yarn preview
+
+## Features
+
+- Add, edit, and delete todos
+- Mark todos as active or completed
+- Batch updates (mark all todos as active or completed)
+- Filter todos by status: All / Active / Completed
+- Persist state between sessions
+- Smooth animations and transitions
+- Error handling for server requests
+
