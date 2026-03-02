@@ -62,6 +62,8 @@ npm run preview
 # or
 yarn preview
 
+```
+
 ## Features
 
 - Add, edit, and delete todos
