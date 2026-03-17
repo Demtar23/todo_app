@@ -54,12 +54,6 @@ npm run build
 # or
 yarn build
 
-### Preview production build:
-
-npm run preview
-# or
-yarn preview
-
 ```
 
 ## Features
