@@ -2,7 +2,7 @@
 
 A responsive Todo application built with React and TypeScript. Supports single and batch updates, server requests, and full state management.
 
-**Live Demo:** https://Demtar23.github.io/todo_app/
+**Live Demo:** [Todo App](https://Demtar23.github.io/todo_app/)
 
 ## Technologies Used
 
